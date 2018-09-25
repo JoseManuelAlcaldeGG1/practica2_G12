@@ -52,10 +52,10 @@
 
 # Dar seguimiento a todos los *branches*:
 
-	**LOCAL --> REMOTO**
-	1. Cambios en el repositorio local.
-	2. Commit de los cambios.
-	3. Añadir cambios de un repositorio remoto:
+* **LOCAL --> REMOTO**
+	*Cambios en el repositorio local.
+	*Commit de los cambios.
+	*Añadir cambios de un repositorio remoto:
 	`git push`
 	
 
