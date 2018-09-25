@@ -3,6 +3,7 @@
 1. **Almacenar cambios temporales:**
 
 `git stash save "Mensaje"`
+
 2. **Listar cambios:**
 
 `git stash list`
