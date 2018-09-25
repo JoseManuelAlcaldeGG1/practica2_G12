@@ -50,6 +50,14 @@
 3. **Clonar un repositorio remoto:**
 `git clone url`
 
+# Dar seguimiento a todos los *branches*:
+
+	**LOCAL --> REMOTO**
+	1. Cambios en el repositorio local.
+	2. Commit de los cambios.
+	3. Añadir cambios de un repositorio remoto:
+	`git push`
+	
 
 *Esta es cursiva* 
 **Esta es negrita**
