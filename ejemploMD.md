@@ -22,3 +22,5 @@
 Esto es un bloque de
 codigo de varias lineas
 ~~~
+
+![Imagen de google](http://www.colemancbx.com/wp-content/uploads/2015/09/Logo-Google.jpg)
