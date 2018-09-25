@@ -9,8 +9,8 @@
     *lista
 * lista 2
 #Encabezzado 1
-#Encabezado 2
-#Encabezado 3
-#Encabezzado 4
-#Encabezado 5
-#Encabezado 6
+##Encabezado 2
+###Encabezado 3
+####Encabezzado 4
+#####Encabezado 5
+######Encabezado 6
