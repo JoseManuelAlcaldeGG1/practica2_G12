@@ -4,13 +4,14 @@
 2. segundo elemnto
 3. tercer elemento
 * lista 1
-  *sublista
-    *lista
-    *lista
+  * sublista
+    * lista
+    * lista
 * lista 2
-#Encabezzado 1
-##Encabezado 2
-###Encabezado 3
-####Encabezzado 4
-#####Encabezado 5
-######Encabezado 6
+# Encabezzado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezzado 4
+##### Encabezado 5
+###### Encabezado 6
+> Esto es una cita
