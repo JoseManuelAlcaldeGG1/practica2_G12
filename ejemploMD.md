@@ -18,11 +18,11 @@
    git stash pop nombre_stash
    ~~~
 
-#GitHub
+# GitHub
 
 ![Imagen github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuW2rqf0Lw3E_kvxt7EFX9Y7C0o6Fba2UNpi_NCQayJ13AC0GI8Q)
 
-##Comandos GitHub I
+## Comandos GitHub I
 
 1. **Añadir repositorio remoto:**
 `git remote add origin *url*`
