@@ -1,0 +1,60 @@
+DOCUMENTO DE EXTRACCIÓN DE REQUISITOS
+
+
+    PARTES INTERESADAS:
+
+    - Profesores de la asignatura de IS.
+    - Alumnos de la asignatura de IS.
+
+
+    DATOS:
+
+    - DNI (identificador)
+    - Nombre
+    - Apellido 1
+    - Apellido 2
+    - Teléfono
+    - Email corporativo
+    - Dirección postal
+    - Curso más alto en el que está matriculado
+    - Fecha de nacimiento
+    - Equipo
+    - Líder o no
+
+
+    REQUERIMIENTOS FUNCIONALES:
+
+    - Inserción de un alumno: en el caso de que el DNI o email corporativo de un alumno que ya esté insertado no se realizará la inserción. Puede introducir alumnos con los datos repetidos anteriores excepto con el DNI y e-mail corporativo (sugerencia de JAVI comprobar el DNI).
+    - Mostrar un alumno existente en la base de datos, con todos sus campos.
+    - Mostrar el listado de los alumnos ordenado por apellidos, nombre, DNI, por curso más alto que esté matriculado, en orden ascendente o descendente. Si la base de datos esta vacia se indicara al cliente. Cómo utilizamos la funcionalidad de mostrar un alumno, el listado incluirá todos los campos.
+    - Mostrar un subconjunto de alumnos por equipo, por líderes. En caso de que no exista dicho subconjunto se mandará un mensaje de error.
+    - Buscar alumno por apellido 1 o ambos, DNI. También se podrán filtrar determinados campos. En caso de que no exista ese campo buscado se mandará un mensaje de error.
+    - Modificar un alumno (sugerencia de JAVI comprobar el DNI), también podremos establecer si el alumno es líder o no.
+    - Borrar un alumno, en caso de que el alumno borrado sea el líder de un equipo indicar una advertencia.
+    - Borrar toda la base de datos.
+    - Guardar y cargar.
+
+
+    REQUERIMIENTOS NO FUNCIONALES:
+
+    - Al guardar y cargar los datos estos se almacenarán en un fichero binario.
+    - No puede haber dos líderes para un mismo equipo.
+    - No se pueden repetir DNIs.
+    - No se pueden repetir los emails corporativos.
+    - El teléfono tiene que tener nueve dígitos.
+    - DNI deberá ser comprobado mediante un algoritmo.
+    - El curso más alto de matriculación estará entre segundo y cuarto.
+    - Todos los campos son obligatorios, excepto el equipo y el líder.
+
+
+    PRIORIDADES
+
+    1. Inserción
+    2. Buscar
+    3. Mostrar uno
+    4. Mostrar todos 
+    4. Mostrar subconjunto
+    5. Modificar
+    5. Borrar
+    6. Borrar toda la base de datos
+
