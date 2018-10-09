@@ -1,3 +1,0 @@
-# Historia de usuario
-
-## Anverso
