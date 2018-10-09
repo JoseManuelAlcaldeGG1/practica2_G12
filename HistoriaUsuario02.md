@@ -3,6 +3,7 @@
 ## Anverso
 
 **ID:** 02 **Buscar alumno**
+
 Como usuario quiero buscar un alumno determinado.
 
 **Prioridad:** 2
