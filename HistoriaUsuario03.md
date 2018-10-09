@@ -4,6 +4,7 @@
 ## Anverso
 
 **ID:** 03 **Mostrar alumno**
+
 Como usuario, quiero poder visualizar alumno que exista en la base de datos.
 
 **Prioridad:** 3 
