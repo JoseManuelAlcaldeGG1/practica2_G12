@@ -4,10 +4,11 @@
 
 **ID:** 07
 
-**Breve descripcion:** El usuario podrá borrar el alumno que desee de la base de datos.
+**Breve descripcion:** El usuario borra el alumno que desee de la base de datos.
 
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 
