@@ -6,10 +6,12 @@
 **Breve descripcion:** El usuario introduce un nuevo alumno a la base de datos.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
 1. El DNI introducido debe ser correcto
+2. El total de alumnos, para poder insertar uno, no debe exceder el numero.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita introducir un usuario.
@@ -23,6 +25,8 @@
     7. Curso más alto matriculado
     8. Equipo del que forma parte
     9. Lider/ No Líder
+
+3. Los unicos campos que se pueden quedar en blanco son equipo y lider.
 
 **Postcondiciones:**
 1. Los datos se escriben en la base de datos
