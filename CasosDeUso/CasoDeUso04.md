@@ -14,15 +14,15 @@
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere visualizar todos los alumnos de la base de datos.
 2. Se mostrarán todos los alumnos odernados alfabeticamente por apellidos o nombre, por numero de DNI, o por el curso mas alto de matriculación en orden ascendente o descendente. Se mostrarán los siguientes campos:
-  a. DNI
-  b. Nombre
-  c. Apellido
-  d. Telefono
-  e. Email-corporativo
-  f. Direccion postal
-  g. Curso más alto matriculado
-  h. Equipo del que forma parte
-  i. Lider/ No Líder
+    a. DNI
+    b. Nombre
+    c. Apellido
+    d. Telefono
+    e. Email-corporativo
+    f. Direccion postal
+    g. Curso más alto matriculado
+    h. Equipo del que forma parte
+    i. Lider/ No Líder
 
 **Postcondiciones:**
 1. Los datos se escriben en la base de datos
