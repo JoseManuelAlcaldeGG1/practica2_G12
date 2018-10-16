@@ -6,6 +6,7 @@
 **Breve descripcion:** El usuario quiere buscar un alumno dentro de la base de datos
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Flujo principal:**
