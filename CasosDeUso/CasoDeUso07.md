@@ -8,7 +8,6 @@
 
 
 **Actores principales:** Profesor
-
 **Actores secundarios:** Alumnos
 
 
