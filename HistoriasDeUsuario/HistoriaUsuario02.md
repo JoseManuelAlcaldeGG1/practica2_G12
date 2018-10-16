@@ -1,4 +1,4 @@
-# Hiatoria de usuario
+# Historia de usuario
 
 ## Anverso
 
