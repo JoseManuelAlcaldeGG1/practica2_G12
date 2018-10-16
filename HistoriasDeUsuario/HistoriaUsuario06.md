@@ -2,7 +2,7 @@
 
 ## Anverso
 
-**ID:* 06 **Modificar alumno**
+**ID:** 06 **Modificar alumno**
 
 Como usuario, quiero poder modificar un alumno existente en la base de datos
 
