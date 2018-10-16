@@ -12,7 +12,7 @@
 1. Debe haber al menos un alumno en la base de datos.
 
 **Flujo principal:**
-1. Se borra el archivo binario en el que estan contenidos todos los alumnos de la base de datos.
+1. Se borra el archivo binario en el que están contenidos todos los alumnos de la base de datos.
 
 **Postcondiciones:**
 1. Se muestra un mensaje al usario de que ha sido borrada la base de datos. 
