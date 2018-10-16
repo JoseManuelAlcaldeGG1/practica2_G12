@@ -14,7 +14,7 @@
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita introducir un usuario.
 2. Se introducen los campos con un determinado orden:
-  1. DNI
+   1. DNI
   b. Nombre
   c. Apellido
   d. Telefono
