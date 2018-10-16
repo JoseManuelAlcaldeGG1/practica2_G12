@@ -3,6 +3,7 @@
 ## Mostrar alumno
 
 **ID:** 03
+
 **Breve descripcion:** El programa introduce por teclado los datos de un nuevo alumno.
 
 **Actores principales:** Profesor
