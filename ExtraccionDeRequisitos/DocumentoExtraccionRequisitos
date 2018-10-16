@@ -44,7 +44,7 @@ DOCUMENTO DE EXTRACCIÓN DE REQUISITOS
     - El teléfono tiene que tener nueve dígitos.
     - DNI deberá ser comprobado mediante un algoritmo.
     - El curso más alto de matriculación estará entre segundo y cuarto.
-    - Todos los campos son obligatorios, excepto el equipo y el líder.
+    - Todos los campos son obligatorios, excepto el equipo y el líder. El equipo puede tomar el valor 0, que indica que el alumno no pertenece a un equipo. El lider, por defecto, tomará el valor no.
 
 
     PRIORIDADES
