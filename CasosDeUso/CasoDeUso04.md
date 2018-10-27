@@ -4,11 +4,14 @@
 
 **ID:** 04
 
-**Breve descripcion:** Al usuario se le mostrarán todos los alumnos introducidos en la base de datos
+**Breve descripcion:** Al usuario se le mostrarán todos los alumnos introducidos en la base de datos.
 
 **Actores principales:** Profesor
 
 **Actores secundarios:** Alumnos
+
+**Precondiciones:**
+1. Debe haber al menos un alumno dentro de la base de datos.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere visualizar todos los alumnos de la base de datos.
@@ -25,7 +28,7 @@
     9. Líder/ No Líder
 
 **Postcondiciones:**
-1. Mostrar todos los alumnos por pantalla
+1. Mostrar todos los alumnos por pantalla.
 
 **Flujos alternativos**
 1. En caso de que no exista ningún alumno en la base de datos, se mostrará un mensaje de error al usuario y se volverá al menú.
