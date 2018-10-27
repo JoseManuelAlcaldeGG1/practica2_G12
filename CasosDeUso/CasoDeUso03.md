@@ -4,9 +4,10 @@
 
 **ID:** 03
 
-**Breve descripcion:** El usuario introduce algún campo clave del alumno, y el sistema lo muestra.
+**Breve descripcion:** El sistema muestra un alumno.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
