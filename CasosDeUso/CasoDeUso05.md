@@ -25,4 +25,4 @@
 **Flujos alternativos**
 1. Si el DNI no es correcto, se muestra un mensaje de error, y se vuelve a pedir el DNI hasta que sea correcto.
 2. Si el DNI o los apellidos se repiten con los de otro alumno, se para el proceso y se muestra un mensaje de error. Se repite el proceso.
-3. Si el usuario pone como lider a un alumno que esté dentro de un grupo que ya cuente con uno, se mostrará un mensaje de error. Este campo del usuario se pondrá como falso.
+3. Si el usuario pone como líder a un alumno que esté dentro de un grupo que ya cuente con uno, se mostrará un mensaje de error, y este campo del usuario se pondrá como falso.
