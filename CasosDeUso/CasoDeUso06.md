@@ -16,7 +16,7 @@
 1. El alumno que el usario desee borrar debe de existir.
 
 **Flujo principal:**
-1. El alumno que se quiera borrar se buscara dentro de la base de datos.
+1. El alumno que se quiera borrar se buscará dentro de la base de datos.
 2. Se eliminará el alumno del programa.
 
 **Flujos alternativos**
