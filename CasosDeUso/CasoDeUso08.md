@@ -4,7 +4,7 @@
 
 **ID:** 08
 
-**Breve descripcion:** El usario borra todos los alumnos de la base de datos
+**Breve descripcion:** El usuario borra todos los alumnos de la base de datos
 
 **Actores principales:** Profesor
 
@@ -20,4 +20,4 @@
 1. Se muestra un mensaje al usario de que ha sido borrada la base de datos. 
 
 **Flujos alternativos**
-1. En caso de que no haya alumnos en la base de datos, se mostrará un mensaje de error
+1. En caso de que no haya alumnos en la base de datos, se mostrará un mensaje de error, y se volverá al menú de opciones.
