@@ -10,4 +10,5 @@ Como usuario quiero poder guardar las modificaciones hechas en el programa.
 
 ## Reverso
 
-1. La aplicación podrá almacenar los datos introducidos por el usuario dentro de un fichero binario.
+1. Quiero poder almacenar los datos introducidos en el programa dentro de un fichero binario.
+2. El fichero se guardará en el mismo directorio que el el programa.
