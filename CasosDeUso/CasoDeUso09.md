@@ -7,6 +7,7 @@
 **Breve descripcion:** Al iniciar el programa, se carga la base de datos.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Precondiciones**
