@@ -1,0 +1,13 @@
+# Historia de usuario
+
+## Anverso
+
+**ID:** 09 **Guardar**
+
+Como usuario quiero poder guardar las modificaciones hechas en el programa.
+
+**Prioridad:** 2
+
+## Reverso
+
+1. La aplicación podrá almacenar los datos introducidos por el usuario dentro de un fichero binario.
