@@ -10,7 +10,7 @@
 
 **Actores secundarios:** Alumnos
 
-**Precondiciones**
+**Precondiciones:**
 1. La base de datos debe haber sido cargada antes de realizar algún cambio.
 
 **Flujo principal:**
