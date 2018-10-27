@@ -21,14 +21,13 @@
 ## REQUERIMIENTOS FUNCIONALES:
 1. Insertar un alumno, en el caso de que el DNI o e-mail corporativo del alumno no esté ya en la base de datos. Se pueden introducir alumnos con el resto de datos repetidos.
 2. Mostrar un alumno existente en la base de datos, con todos sus campos.
-3. Mostrar el listado de los alumnos ordenado por apellidos, nombre, DNI, por curso más alto que esté matriculado y en orden ascendente o descendente. Si la base de datos está vacía se indicará al cliente. El listado mostrará todos los campos.
-4. Mostrar un subconjunto de alumnos por equipo, por líderes y por curso más alto matriculado. En caso de que no exista dicho subconjunto se mandará un mensaje de error.
-5. Buscar alumno por apellido 1 o ambos, equipo o DNI.
-6. Modificar los datos de un alumno.
-7. Borrar un alumno, en caso de que el alumno borrado sea el líder de un equipo indicar una advertencia.
-8. Borrar toda la base de datos, enviando previamente una advertencia de que no se podrán recuperar los datos.
-9. Guardar la nueva información y la modificada.
-10. Cargar la información ya existente.
+3. Mostrar el listado de los alumnos ordenado por apellidos, nombre, DNI, por curso más alto que esté matriculado y en orden ascendente o descendente. Si la base de datos está vacía se indicará al cliente. El listado mostrará todos los campos. Se podrá filtrar el listado para que solo aparezcan alumnos con características comunes. Estas características podrán ser equipo, líder o curso más alto matriculado, y serán especificadas por el usuario a la hora de mostrarlos.
+4. Buscar alumno por apellido 1 o ambos, equipo o DNI.
+5. Modificar los datos de un alumno.
+6. Borrar un alumno, en caso de que el alumno borrado sea el líder de un equipo indicar una advertencia.
+7. Borrar toda la base de datos, enviando previamente una advertencia de que no se podrán recuperar los datos.
+8. Guardar la nueva información y la modificada.
+9. Cargar la información ya existente.
 
 ## REQUERIMIENTOS NO FUNCIONALES:
 1. Los datos estarán almacenados en un fichero binario.
