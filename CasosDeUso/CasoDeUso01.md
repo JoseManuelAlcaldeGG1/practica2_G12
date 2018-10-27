@@ -33,5 +33,5 @@
 2. Se muestra por pantalla un mensaje informando del proceso correcto
 
 **Flujos alternativos**
-1. Si el DNI no es correcto, se muestra un mensaje de error
-2. Si el DNI o los apellidos se repiten con los de otro alumno, se para el proceso y se muestra un mensaje de error
+1. Si el DNI no es correcto, se muestra un mensaje de error, y se vuelve a pedir el DNI.
+2. Si el DNI o los apellidos se repiten con los de otro alumno, se para el proceso y se muestra un mensaje de error, volviendo al menú de opciones.
