@@ -2,7 +2,7 @@
 
 ## Borrar el alumno
 
-**ID:** 07
+**ID:** 06
 
 **Breve descripcion:** El usuario borra el alumno que desee de la base de datos.
 
