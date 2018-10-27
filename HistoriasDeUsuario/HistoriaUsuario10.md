@@ -2,7 +2,7 @@
 
 ## Anverso
 
-**ID:** 9 ** Cargar **
+**ID:** 9 **Cargar**
 Como usuario quiero poder cargar los datos que he almacenado en la base de datos.
 
 **Prioridad:** 2
