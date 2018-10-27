@@ -47,7 +47,6 @@
 4. **Prioridad 2:** Buscar
 5. **Prioridad 3:** Mostrar un alumno
 6. **Prioridad 4:** Mostrar todos los alumnos 
-7. **Prioridad 4:** Mostrar subconjunto de alumnos
-8. **Prioridad 5:** Modificar
-9. **Prioridad 5:** Borrar
-10. **Prioridad 6:** Borrar toda la base de datos
+7. **Prioridad 5:** Modificar
+8. **Prioridad 5:** Borrar
+9. **Prioridad 6:** Borrar toda la base de datos
