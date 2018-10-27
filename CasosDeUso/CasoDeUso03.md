@@ -4,7 +4,7 @@
 
 **ID:** 03
 
-**Breve descripcion:** El programa introduce por teclado los datos de un nuevo alumno.
+**Breve descripcion:** El usuario introduce algún campo clave del alumno, y el sistema lo muestra.
 
 **Actores principales:** Profesor
 **Actores secundarios:** Alumnos
@@ -20,4 +20,4 @@
 1. Los datos del alumno se muestran en pantalla.
 
 **Flujos alternativos**
-1. Si el alumno no existe en el programa, se muestra un mensaje de error.
+1. Si los campos introducidos no coinciden con la base de datos, se muestra un mensaje de error, y se vuelve al menú de opciones.
