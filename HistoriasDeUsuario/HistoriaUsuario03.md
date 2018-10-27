@@ -13,4 +13,3 @@ Como usuario, quiero poder visualizar los datos de un alumno que exista en la ba
 ## Reverso
 
 1. Quiero poder mostrar un alumno con todos sus datos.
-2. Para poder mostrar un alumno, previamente es necesario buscarlo.
