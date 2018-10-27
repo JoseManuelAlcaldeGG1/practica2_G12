@@ -11,30 +11,30 @@
 3. Apellido 1
 4. Apellido 2
 5. Teléfono
-6. Email corporativo
+6. E-mail corporativo
 7. Dirección postal
 8. Curso más alto en el que está matriculado
 9. Fecha de nacimiento
 10. Equipo
-11. Líder o no
+11. Líder o no líder
 
 ## REQUERIMIENTOS FUNCIONALES:
-1. Inserción de un alumno: en el caso de que el DNI o email corporativo de un alumno ya esté insertado, no se realizará la inserción. Puede introducir alumnos con los datos anteriores repetidos, excepto con el DNI y email corporativo.
+1. Insertar un alumno, en el caso de que el DNI o e-mail corporativo del alumno no esté ya en la base de datos. Se pueden introducir alumnos con el resto de datos repetidos.
 2. Mostrar un alumno existente en la base de datos, con todos sus campos.
-3. Mostrar el listado de los alumnos ordenado por apellidos, nombre, DNI, por curso más alto que esté matriculado y en orden ascendente o descendente. Si la base de datos esta vacia se indicara al cliente. Cómo utilizamos la funcionalidad de mostrar un alumno, el listado incluirá todos los campos.
+3. Mostrar el listado de los alumnos ordenado por apellidos, nombre, DNI, por curso más alto que esté matriculado y en orden ascendente o descendente. Si la base de datos está vacía se indicará al cliente. El listado mostrará todos los campos.
 4. Mostrar un subconjunto de alumnos por equipo, por líderes y por curso más alto matriculado. En caso de que no exista dicho subconjunto se mandará un mensaje de error.
-5. Buscar alumno por apellido 1 o ambos y DNI. También se podrán filtrar determinados campos. En caso de que no exista ese campo buscado se mandará un mensaje de error.
-6. Modificar un alumno, también podremos establecer si el alumno es líder o no.
+5. Buscar alumno por apellido 1 o ambos, equipo o DNI.
+6. Modificar los datos de un alumno.
 7. Borrar un alumno, en caso de que el alumno borrado sea el líder de un equipo indicar una advertencia.
-8. Borrar toda la base de datos.
-9. Guardar.
-10. Cargar.
+8. Borrar toda la base de datos, enviando previamente una advertencia de que no se podrán recuperar los datos.
+9. Guardar la nueva información y la modificada.
+10. Cargar la información ya existente.
 
 ## REQUERIMIENTOS NO FUNCIONALES:
-1. Al guardar y cargar los datos estos se almacenarán en un fichero binario.
+1. Los datos estarán almacenados en un fichero binario.
 2. No puede haber dos líderes para un mismo equipo.
 3. No se pueden repetir DNIs.
-4. No se pueden repetir los emails corporativos.
+4. No se pueden repetir los e-mails corporativos.
 5. El teléfono tiene que tener nueve dígitos.
 6. DNI deberá ser comprobado mediante un algoritmo.
 7. El curso más alto de matriculación estará entre segundo y cuarto.
