@@ -11,4 +11,3 @@ Como usuario, quiero poder modificar un alumno existente en la base de datos.
 ## Reverso
 
 1. Quiero poder modificar un alumno que exista en la base de datos.
-2. Para poder modificar un alumno, previamente es necesario buscarlo.
