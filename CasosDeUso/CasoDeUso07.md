@@ -3,7 +3,8 @@
 ## Borrar todos los alumnos
 
 **ID:** 07
-**Breve descripcion:** El usuario borra todos los alumnos de la base de datos
+
+**Breve descripcion:** El usuario borra todos los alumnos de la base de datos.
 
 **Actores principales:** Profesor
 **Actores secundarios:** Alumnos
