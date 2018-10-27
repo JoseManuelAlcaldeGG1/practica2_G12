@@ -2,9 +2,9 @@
 
 ## Anverso
 
-**ID:** 06 **Modificar alumno**
+**ID:** 05 **Modificar alumno**
 
-Como usuario, quiero poder modificar un alumno existente en la base de datos
+Como usuario, quiero poder modificar un alumno existente en la base de datos.
 
 **Prioridad:** 5
 
