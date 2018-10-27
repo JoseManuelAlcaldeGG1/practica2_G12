@@ -45,12 +45,13 @@
 ## PRIORIDADES
 
 1. **Prioridad 1:** Inserción
-2. **Prioridad 2:** Cargar y guardar
-3. **Prioridad 2:** Buscar
-4. **Prioridad 3:** Mostrar uno
-5. **Prioridad 4:** Mostrar todos 
-6. **Prioridad 4:** Mostrar subconjunto
-7. **Prioridad 5:** Modificar
-8. **Prioridad 5:** Borrar
-9. **Prioridad 6:** Borrar toda la base de datos
+2. **Prioridad 2:** Cargar
+3. **Prioridad 2:** Guardar
+4. **Prioridad 2:** Buscar
+5. **Prioridad 3:** Mostrar uno
+6. **Prioridad 4:** Mostrar todos 
+7. **Prioridad 4:** Mostrar subconjunto
+8. **Prioridad 5:** Modificar
+9. **Prioridad 5:** Borrar
+10. **Prioridad 6:** Borrar toda la base de datos
 
