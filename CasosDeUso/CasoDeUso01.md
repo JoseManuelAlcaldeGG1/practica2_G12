@@ -35,3 +35,4 @@
 **Flujos alternativos**
 1. Si el DNI no es correcto, se muestra un mensaje de error, y se vuelve a pedir el DNI.
 2. Si el DNI o el e-mail se repiten con los de otro alumno, se para el proceso y se muestra un mensaje de error, volviendo al menú de opciones.
+3. En el caso de que ya haya 150 alumnos, se mandará un mensaje de error y se volverá al menú de opciones.
