@@ -3,9 +3,11 @@
 ## Modificar alumno
 
 **ID:** 05
+
 **Breve descripcion:** El usuario modifica los datos de un usuario existente dentro de la base de datos
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
