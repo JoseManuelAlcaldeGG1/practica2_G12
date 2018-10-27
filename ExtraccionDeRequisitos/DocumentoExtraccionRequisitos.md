@@ -19,7 +19,6 @@
 11. Líder o no
 
 ## REQUERIMIENTOS FUNCIONALES:
-
 1. Inserción de un alumno: en el caso de que el DNI o email corporativo de un alumno ya esté insertado, no se realizará la inserción. Puede introducir alumnos con los datos anteriores repetidos, excepto con el DNI y email corporativo. Además cuando insertemos un nuevo alumno realizaremos la comprobacion de su DNI para ver si es correcto.
 2. Mostrar un alumno existente en la base de datos, con todos sus campos.
 3. Mostrar el listado de los alumnos ordenado por apellidos, nombre, DNI, por curso más alto que esté matriculado, en orden ascendente o descendente. Si la base de datos esta vacia se indicara al cliente. Cómo utilizamos la funcionalidad de mostrar un alumno, el listado incluirá todos los campos.
@@ -32,7 +31,6 @@
 10. Cargar.
 
 ## REQUERIMIENTOS NO FUNCIONALES:
-
 1. Al guardar y cargar los datos estos se almacenarán en un fichero binario.
 2. No puede haber dos líderes para un mismo equipo.
 3. No se pueden repetir DNIs.
@@ -43,7 +41,6 @@
 8. Todos los campos son obligatorios, excepto el equipo y el líder. El equipo puede tomar el valor 0, que indica que el alumno no pertenece a un equipo. El lider, por defecto, tomará el valor no.
 
 ## PRIORIDADES
-
 1. **Prioridad 1:** Inserción
 2. **Prioridad 2:** Cargar
 3. **Prioridad 2:** Guardar
