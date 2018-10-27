@@ -2,7 +2,7 @@
 
 ## Anverso
 
-**ID:** 07 **Borrar un alumno**
+**ID:** 06 **Borrar un alumno**
 
 Como usuario quiero poder borrar un alumno.
 
