@@ -18,4 +18,5 @@
 2. Se cargará el fichero para su uso por el usuario. 
 
 **Flujos alternativos**
-1. En caso de que no se pueda abrir o no exista el fichero, se mostrará un mensaje de error, y se terminará el programa.
+1. En caso de que no se pueda abrir el fichero, se mostrará un mensaje de error, y se terminará el programa.
+2. En caso de que el fichero binario no exista, se crea uno.
