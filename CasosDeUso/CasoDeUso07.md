@@ -2,7 +2,7 @@
 
 ## Borrar todos los alumnos
 
-**ID:** 08
+**ID:** 07
 
 **Breve descripcion:** El usuario borra todos los alumnos de la base de datos
 
