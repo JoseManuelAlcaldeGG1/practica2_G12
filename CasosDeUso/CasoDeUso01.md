@@ -10,8 +10,8 @@
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
-1. El DNI introducido debe ser correcto
-2. El total de alumnos, para poder insertar uno, no debe exceder el numero.
+1. El DNI introducido debe ser correcto.
+2. Para poder insertar un nuevo alumno, el total de alumnos no debe exceder el numero 149.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita introducir un usuario.
@@ -29,8 +29,8 @@
 3. Los unicos campos que se pueden quedar en blanco son equipo y lider.
 
 **Postcondiciones:**
-1. Los datos se escriben en la base de datos
-2. Se muestra por pantalla un mensaje informando del proceso correcto
+1. Los datos se escriben en la base de datos.
+2. Se muestra por pantalla un mensaje informando del proceso correcto.
 
 **Flujos alternativos**
 1. Si el DNI no es correcto, se muestra un mensaje de error, y se vuelve a pedir el DNI.
