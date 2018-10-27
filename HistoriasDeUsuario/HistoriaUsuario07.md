@@ -2,7 +2,7 @@
 
 ## Anverso
 
-**ID:** 8 **Borrar todos los alumnos**
+**ID:** 07 **Borrar todos los alumnos**
 
 Como usuario quiero poder vaciar toda la base de datos, es decir, borrar todos los alumnos.
 
