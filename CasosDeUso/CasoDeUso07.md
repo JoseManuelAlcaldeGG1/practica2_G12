@@ -20,4 +20,4 @@
 2. Se eliminará el alumno del programa.
 
 **Flujos alternativos**
-1. En caso de que el alumno no exita dentro de la base de datos, se le mostarará al usartio un mensaje de error. 
+1. En caso de que el alumno no exista dentro de la base de datos, se le mostarará al usuario un mensaje de error. Se repetirá el proceso.
