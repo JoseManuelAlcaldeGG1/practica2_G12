@@ -45,9 +45,9 @@
 2. **Prioridad 2:** Cargar
 3. **Prioridad 2:** Guardar
 4. **Prioridad 2:** Buscar
-5. **Prioridad 3:** Mostrar uno
-6. **Prioridad 4:** Mostrar todos 
-7. **Prioridad 4:** Mostrar subconjunto
+5. **Prioridad 3:** Mostrar un alumno
+6. **Prioridad 4:** Mostrar todos los alumnos 
+7. **Prioridad 4:** Mostrar subconjunto de alumnos
 8. **Prioridad 5:** Modificar
 9. **Prioridad 5:** Borrar
 10. **Prioridad 6:** Borrar toda la base de datos
