@@ -5,7 +5,7 @@
 2. Alumnos de la asignatura de IS.
 
 
-## DATOS:
+## DATOS PERSONA:
 1. DNI (identificador)
 2. Nombre
 3. Apellido 1
@@ -13,10 +13,14 @@
 5. Teléfono
 6. E-mail corporativo
 7. Dirección postal
-8. Curso más alto en el que está matriculado
-9. Fecha de nacimiento
+8. Fecha de nacimiento
+### Datos alumno
+9. Curso más alto en el que está matriculado
 10. Equipo
 11. Líder o no líder
+### Datos profesor
+9. NombreUsuario
+10. Coordinador
 
 ## REQUERIMIENTOS FUNCIONALES:
 1. Insertar un alumno, en el caso de que el DNI o e-mail corporativo del alumno no esté ya en la base de datos. Se pueden introducir alumnos con el resto de datos repetidos.
