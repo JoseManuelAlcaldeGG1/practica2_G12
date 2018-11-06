@@ -37,7 +37,6 @@ Hereda los datos de persona y además contiene:
 8. Guardar la nueva información y la modificada.
 9. Cargar la información ya existente.
 
-## REQUERIMIENTOS NO FUNCIONALES:
 1. Los datos estarán almacenados en un fichero binario.
 2. No puede haber dos líderes para un mismo equipo.
 3. No se pueden repetir DNIs.
@@ -47,13 +46,24 @@ Hereda los datos de persona y además contiene:
 7. El curso más alto de matriculación estará entre segundo y cuarto.
 8. Todos los campos son obligatorios, excepto el equipo y el líder. El equipo puede tomar el valor cero, que indica que el alumno no pertenece a un equipo. El lider, por defecto, tomará el valor no.
 
+## REQUERIMIENTOS NO FUNCIONALES:
+1. El tipo de formato de los ficheros será binario, tanto para el de las credenciales como el de los alumnos.
+2. La salida será mostrada por pantalla.
+3. El número máximo de alumnos será de 150.
+4. El cliente preestablece quién será el profesor coordinador, el cual estará ya registrado en la base de datos.
+
 ## PRIORIDADES
-1. **Prioridad 1:** Inserción
-2. **Prioridad 2:** Cargar
-3. **Prioridad 2:** Guardar
-4. **Prioridad 2:** Buscar
-5. **Prioridad 3:** Mostrar un alumno
-6. **Prioridad 4:** Mostrar todos los alumnos 
-7. **Prioridad 5:** Modificar
-8. **Prioridad 5:** Borrar
-9. **Prioridad 6:** Borrar toda la base de datos
+1. **Prioridad 1:** Inserción aluimno
+2. **Prioridad 1:** Inserción profesor ayudante
+3. **Prioridad 2:** Identificación
+4. **Prioridad 2:** Cargar
+5. **Prioridad 2:** Guardar
+6. **Prioridad 2:** Buscar
+7. **Prioridad 3:** Hacer copia seguridad
+8. **Prioridad 3:** Restaurar copia seguridad
+7. **Prioridad 3:** Mostrar un alumno
+8. **Prioridad 4:** Mostrar todos los alumnos 
+9. **Prioridad 5:** Modificar
+10. **Prioridad 5:** Borrar alumno
+11. **Prioridad 5:** Borrar profesor ayudante
+12. **Prioridad 6:** Borrar toda la base de datos
