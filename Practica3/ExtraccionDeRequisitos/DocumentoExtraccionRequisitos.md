@@ -36,15 +36,12 @@ Hereda los datos de persona y además contiene:
 7. Borrar toda la base de datos, enviando previamente una advertencia de que no se podrán recuperar los datos.
 8. Guardar la nueva información y la modificada.
 9. Cargar la información ya existente.
-
-1. Los datos estarán almacenados en un fichero binario.
-2. No puede haber dos líderes para un mismo equipo.
-3. No se pueden repetir DNIs.
-4. No se pueden repetir los e-mails corporativos.
-5. El teléfono tiene que tener nueve dígitos.
-6. DNI deberá ser comprobado mediante un algoritmo.
-7. El curso más alto de matriculación estará entre segundo y cuarto.
-8. Todos los campos son obligatorios, excepto el equipo y el líder. El equipo puede tomar el valor cero, que indica que el alumno no pertenece a un equipo. El lider, por defecto, tomará el valor no.
+10. Para la identificación, será necesario aportar el nombre de usuario y la contraseña.
+11. Añadir un profesor ayudante.
+12. Borrar un profesor ayudante.
+13. Cambiar profesor coordinador.
+14. Hacer copia de seguridad.
+15. Restaurar la copia de seguridad.
 
 ## REQUERIMIENTOS NO FUNCIONALES:
 1. El tipo de formato de los ficheros será binario, tanto para el de las credenciales como el de los alumnos.
