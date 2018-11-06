@@ -15,12 +15,12 @@
 7. Dirección postal
 8. Fecha de nacimiento
 
-## DATOS PROFESOR:
+### DATOS PROFESOR:
 Hereda los datos de persona y además contiene:
 1. NombreUsuario
 2. Coordinador
 
-## DATDOS ALUMNO:
+### DATDOS ALUMNO:
 Hereda los datos de persona y además contiene:
 1. Curso más alto en el que está matriculado
 2. Equipo
