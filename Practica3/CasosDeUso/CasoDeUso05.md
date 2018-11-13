@@ -11,11 +11,12 @@
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
-1. El alumno cuyos datos se quieren modificar debe existir en la base de datos. Primero se debe buscar el alumno.
+1. El alumno cuyos datos se quieren modificar debe existir en la base de datos.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere cambiar los datos de un alumno.
-2. Se pueden cambiar los datos del alumno: DNI, Nombre, Apellido,Telefono, Email-corporativo, Direccion postal, Curso más alto matriculado, Equipo del que forma parte, Líder/ No Líder.
+2. Se debe buscar el alumno antes de modificar sus datos.
+3. Se pueden cambiar los datos del alumno: DNI, Nombre, Apellido,Telefono, Email-corporativo, Direccion postal, Curso más alto matriculado, Equipo del que forma parte, Líder/ No Líder.
 
 **Postcondiciones:**
 1. Los datos modificados se reescriben en la base de datos.
