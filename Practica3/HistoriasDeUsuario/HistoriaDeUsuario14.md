@@ -2,7 +2,7 @@
 
 ## Anverso
 
-**ID:** 14 **Restaurar copia**
+**ID:** 14 **Restaurar copia de seguridad**
 
 Como profesor quiero restaurar una copia de seguridad de la agenda de alumnos.
 
