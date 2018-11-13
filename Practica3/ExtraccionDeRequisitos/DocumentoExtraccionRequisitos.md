@@ -51,16 +51,18 @@ Hereda los datos de persona y además contiene:
 
 ## PRIORIDADES
 1. **Prioridad 1:** Inserción aluimno
-2. **Prioridad 1:** Inserción profesor ayudante
-3. **Prioridad 2:** Identificación
-4. **Prioridad 2:** Cargar
-5. **Prioridad 2:** Guardar
-6. **Prioridad 2:** Buscar
-7. **Prioridad 3:** Hacer copia seguridad
-8. **Prioridad 3:** Restaurar copia seguridad
-7. **Prioridad 3:** Mostrar un alumno
-8. **Prioridad 4:** Mostrar todos los alumnos 
-9. **Prioridad 5:** Modificar
-10. **Prioridad 5:** Borrar alumno
-11. **Prioridad 5:** Borrar profesor ayudante
-12. **Prioridad 6:** Borrar toda la base de datos
+2. **Prioridad 1:** Añadir profesor
+3. **Prioridad 1:** Inserción profesor ayudante
+4. **Prioridad 2:** Identificación
+5. **Prioridad 2:** Cargar
+6. **Prioridad 2:** Guardar
+7. **Prioridad 2:** Buscar
+8. **Prioridad 3:** Hacer copia seguridad
+9. **Prioridad 3:** Restaurar copia seguridad
+10. **Prioridad 3:** Mostrar un alumno
+11. **Prioridad 4:** Mostrar todos los alumnos 
+12. **Prioridad 5:** Modificar
+13. **Prioridad 5:** Borrar alumno
+14. **Prioridad 5:** Eliminar profesor
+15. **Prioridad 5:** Borrar profesor ayudante
+16. **Prioridad 6:** Borrar toda la base de datos
