@@ -4,7 +4,7 @@
 
 **ID:** 08
 
-**Breve descripcion:** Al realizar cualquier operación, se guardará la base de datos.
+**Breve descripcion:** Al realizar cualquier operación, los cambios se volcarán sobre la base de datos.
 
 **Actores principales:** Profesor
 
