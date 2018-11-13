@@ -15,14 +15,13 @@
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario inicia el programa.
-2. El programa 
+2. El programa pide al usuario su identificador y contraseña.
+3. El programa comprueba si el usuario esta en el fichero de credenciales y si la contraseña coincide con la de su usario.
+4. El sistema manda un mensaje de bienvenida al usuario.
 
 **Postcondiciones:**
-1. Los datos se escriben en la base de datos.
-2. Se muestra por pantalla un mensaje informando del proceso correcto.
-3. Los únicos campos que se pueden quedar en blanco son equipo y lider.
+1. Se abre el menu de la base de datos.
 
 **Flujos alternativos**
-1. Si el DNI no es correcto, se muestra un mensaje de error, y se vuelve a pedir el DNI.
-2. Si el DNI o el e-mail se repiten con los de otro alumno, se para el proceso y se muestra un mensaje de error, volviendo al menú de opciones.
-3. En el caso de que ya haya 150 alumnos, se mandará un mensaje de error y se volverá al menú de opciones.
+1. Si el usuario no se encuentra en el fichero de credenciales, no podrá acceder al menu y se le mandará un mensaje de error.
+2. Si el usuario se encuentra en el fichero de credenciales pero la contraseña no coincide, se le mandará un mensaje de error y no podrá acceder al sistema.
