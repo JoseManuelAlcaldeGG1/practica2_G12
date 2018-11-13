@@ -10,4 +10,4 @@ Como profesor quiero borrar otros profesores.
 
 ## Reverso
 
-1. La función le permitirá al coordinador otro profesor.
+1. La función le permitirá al coordinador borrar otro profesor.
