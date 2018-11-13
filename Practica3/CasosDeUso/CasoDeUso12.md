@@ -12,7 +12,7 @@
 
 **Precondiciones:**
 1. Debe existir un fichero binario en el directorio con los usuarios y las contraseñas de los profesores registrados.
-2. El usuario debe estar registrado como coordinador para ejecutar esta funcionalidad.
+2. El usuario debe estar registrado como coordinador para ejecutar esta funcionalidad. 
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario quiere dejar de permitir el acceso al sistema a un profesor registrado.
