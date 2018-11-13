@@ -50,7 +50,7 @@ Hereda los datos de persona y además contiene:
 4. El cliente preestablece quién será el profesor coordinador, el cual estará ya registrado en la base de datos.
 
 ## PRIORIDADES
-1. **Prioridad 1:** Inserción aluimno
+1. **Prioridad 1:** Inserción alumno
 2. **Prioridad 1:** Inserción profesor
 3. **Prioridad 2:** Identificación
 4. **Prioridad 2:** Cargar
