@@ -52,7 +52,7 @@ Hereda los datos de persona y además contiene:
 ## PRIORIDADES
 1. **Prioridad 1:** Inserción alumno
 2. **Prioridad 1:** Inserción profesor
-3. **Prioridad 2:** Identificación
+3. **Prioridad 2:** Autentificar
 4. **Prioridad 2:** Cargar
 5. **Prioridad 2:** Guardar
 6. **Prioridad 2:** Buscar
