@@ -13,7 +13,7 @@
 
 
 **Precondiciones:**
-1. El alumno que el usario desee borrar debe de existir.
+1. El alumno que el usario desee borrar debe existir.
 
 **Flujo principal:**
 1. El alumno que se quiera borrar se buscará dentro de la base de datos.
