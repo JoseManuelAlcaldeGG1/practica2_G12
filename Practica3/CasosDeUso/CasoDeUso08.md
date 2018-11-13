@@ -14,7 +14,7 @@
 1. La base de datos debe haber sido cargada antes de realizar algún cambio.
 
 **Flujo principal:**
-1. El caso de uso empieza cuando el usuario hace alguna operación de modificación o adición se volcará el contenido nuevo en la base de datos.
+1. El caso de uso empieza cuando el usuario hace alguna operación de modificación o adición, entonces se volcará el contenido nuevo en la base de datos.
 
 **Flujos alternativos**
 1. En caso de que no se pueda guardar el contenido, se mostrará un mensaje de error y se finalizará el programa.
