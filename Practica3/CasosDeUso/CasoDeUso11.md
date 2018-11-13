@@ -23,4 +23,4 @@
 1. En el fichero de credenciales queda modificado con el nuevo usuario y su contraseña.
 
 **Flujos alternativos**
-1. Si el nuevo usuario ya existía en la base de datos, no se añadiirá y se mandará un mensaje de error.
+1. Si el nuevo usuario ya existía en la base de datos, no se añadirá y se mandará un mensaje de error.
