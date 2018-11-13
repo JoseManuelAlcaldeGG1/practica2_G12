@@ -12,6 +12,7 @@
 
 **Precondiciones:**
 1. Debe existir un fichero binario en el directorio con los usuarios y las contraseñas de los profesores registrados.
+2. El usuario debe ser coordinador para acceder a esta funcionalidad.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el coordinador necesita añadir un nuevo profesor que pueda acceder a la base de datos.
