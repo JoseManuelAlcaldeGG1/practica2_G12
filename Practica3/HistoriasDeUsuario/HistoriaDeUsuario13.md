@@ -2,7 +2,7 @@
 
 ## Anverso
 
-**ID:** 13 **Hacer copia**
+**ID:** 13 **Hacer copia de seguridad**
 
 Como profesor quiero hacer una copia de seguridad de la agenda de alumnos
 
