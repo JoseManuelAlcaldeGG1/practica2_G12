@@ -11,7 +11,7 @@
 **Actores secundarios:** Alumnos
 
 **Precondiciones**
-1. Existe un fichero binario sobre el que cargaremos la base de datos, en el caso de que no exista, se creará un fichero para dicha base de datos.
+1. Existe un fichero binario sobre el que cargaremos la base de datos.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario accede al programa.
@@ -19,4 +19,4 @@
 
 **Flujos alternativos**
 1. En caso de que no se pueda abrir el fichero, se mostrará un mensaje de error, y se terminará el programa.
-2. En caso de que el fichero binario no exista, se crea uno.
+2. Si no existe fichero para cargar la base de datos, se mostrará un mensaje de error y se terminará el programa.
