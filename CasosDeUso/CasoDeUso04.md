@@ -28,7 +28,7 @@
     9. Líder/ No Líder
 
 **Postcondiciones:**
-1. Mostrar todos los alumnos por pantalla.
+1. Mostrar todos los alumnos por pantalla y se generará un archivo Markdown con la consulta.
 
 **Flujos alternativos**
 1. En caso de que no exista ningún alumno en la base de datos, se mostrará un mensaje de error al usuario y se volverá al menú.
