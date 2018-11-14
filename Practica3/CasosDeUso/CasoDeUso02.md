@@ -12,7 +12,8 @@
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita buscar un alumno de la base de datos.
-2. El alumno será buscado por DNI, apellidos o equipo al que pertenece.
+2. El programa pedirá al usuario el tipo de campo clave por el que se realizará la búsqueda, que puede ser DNI o apellidos
+3. El alumno será buscado.
 
 **Postcondiciones:**
 1. El alumno encontrado se pasará a la función correspondiente.
