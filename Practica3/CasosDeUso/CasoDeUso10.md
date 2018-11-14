@@ -16,8 +16,9 @@
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario inicia el programa.
 2. El programa pide al usuario su identificador y contraseña.
-3. El programa comprueba si el usuario esta en el fichero de credenciales y si la contraseña coincide con la de su usario.
-4. El sistema manda un mensaje de bienvenida al usuario.
+3. El programa comprueba si el usuario esta en el fichero de credenciales.
+4. El programa comprueba si la contraseña coincide con el usuario introducido
+5. El sistema manda un mensaje de bienvenida al usuario.
 
 **Postcondiciones:**
 1. Se abre el menu de la base de datos.
