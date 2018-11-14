@@ -19,13 +19,14 @@
 2. Se introducen los campos con un determinado orden:
     1. DNI
     2. Nombre
-    3. Apellido
-    4. Telefono
-    5. E-mail corporativo
-    6. Direccion postal
-    7. Curso más alto matriculado
-    8. Equipo del que forma parte
-    9. Lider/ No Líder
+    3. Apellido1
+    4. Apellido2
+    5. Telefono
+    6. E-mail corporativo
+    7. Direccion postal
+    8. Curso más alto matriculado
+    9. Equipo del que forma parte
+    10. Lider/ No Líder
 
 **Postcondiciones:**
 1. Los datos se escriben en la base de datos.
