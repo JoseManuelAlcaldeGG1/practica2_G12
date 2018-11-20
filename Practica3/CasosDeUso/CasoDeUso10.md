@@ -6,7 +6,7 @@
 
 **Breve descripcion:** Comprueba si el usuario tiene acceso al sistema.
 
-**Actores principales:** Profesor
+**Actores principales:** Usuario no identificado
 
 **Actores secundarios:** Alumnos
 
