@@ -28,7 +28,7 @@
     10. Lider/ No Líder
 
 **Postcondiciones:**
-1. Los datos se escriben en la base de datos.
+1. Los datos se escriben en la agenda.
 2. Se muestra por pantalla un mensaje informando del proceso correcto.
 3. Los únicos campos que se pueden quedar en blanco son equipo y lider.
 
