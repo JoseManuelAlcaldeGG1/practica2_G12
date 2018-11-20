@@ -16,7 +16,7 @@
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita introducir un alumno.
 2. Se introducen los campos con un determinado orden:
-    1. DNI
+    1. DNI(Se comprueba el DNI)
     2. Nombre
     3. Apellido1
     4. Apellido2
