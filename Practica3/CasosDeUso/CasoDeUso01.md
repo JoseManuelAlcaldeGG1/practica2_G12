@@ -11,8 +11,7 @@
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
-1. El DNI introducido debe ser correcto.
-2. Para poder insertar un nuevo alumno, el total de alumnos no debe exceder el numero 149.
+1. Para poder insertar un nuevo alumno, el total de alumnos no debe exceder el numero 149.
 
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita introducir un alumno.
