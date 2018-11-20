@@ -16,21 +16,21 @@
 **Flujo principal:**
 1. El caso de uso empieza cuando el usuario necesita introducir un alumno.
 2. Se introducen los campos con un determinado orden:
-    1. DNI(Se comprueba el DNI)
+    1. DNI(Se comprueba el DNI y se comprueba que no este ya en la agenda)
     2. Nombre
     3. Apellido1
     4. Apellido2
     5. Telefono
-    6. E-mail corporativo
+    6. E-mail corporativo(Se comprueba que no este ya en la agenda)
     7. Direccion postal
     8. Curso más alto matriculado
     9. Equipo del que forma parte
     10. Lider/ No Líder
+3. Se muestra por pantalla un mensaje informando del proceso correcto.    
 
 **Postcondiciones:**
 1. Los datos se escriben en la agenda.
-2. Se muestra por pantalla un mensaje informando del proceso correcto.
-3. Los únicos campos que se pueden quedar en blanco son equipo y lider.
+2. Los únicos campos que se pueden quedar en blanco son equipo y lider.
 
 **Flujos alternativos**
 1. Si el DNI no es correcto, se muestra un mensaje de error, y se vuelve a pedir el DNI.
