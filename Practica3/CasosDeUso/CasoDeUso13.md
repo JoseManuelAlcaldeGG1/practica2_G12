@@ -6,7 +6,7 @@
 
 **Breve descripcion:** Hacer una copia de seguridad del fichero de alumnos.
 
-**Actores principales:** Profesor
+**Actores principales:** Profesor coordinador
 
 **Actores secundarios:** Alumnos
 
