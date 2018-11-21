@@ -6,7 +6,7 @@
 
 **Breve descripcion:** Restaura una copia de seguridad realizada con anterioridad.
 
-**Actores principales:** Profesor
+**Actores principales:** Profesor coordinador
 
 **Actores secundarios:** Alumnos
 
