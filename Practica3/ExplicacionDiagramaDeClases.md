@@ -28,3 +28,4 @@ Dichos atributos son:
 3. Curso más alto
 
 Para definir estos atributos, en esta clase hemos implementado una serie de funciones (get y set) con las cuales los obtenemos y modificamos, dependiendo del alumno que queramos visualizar o que queramos introducir nuevo en nuestra base de datos.
+Además hemos definido que esta clase tiene herencia de la clase persona, ya que nos haran falta las funciones de dicha clase para visualizar el resto de atribustos del alumno.
