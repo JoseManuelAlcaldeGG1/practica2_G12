@@ -7,7 +7,8 @@
 4. Agenda
 
 ### Persona
-En esta clase persona hemos definido una serie de atributos que sirven para hacer referencia a unas características generales tanto de los profesores como de los alumnos.
+En esta clase hemos definido una serie de atributos que sirven para hacer referencia a unas características generales tanto de los profesores como de los alumnos.
+
 Dichos atributos son:
 1. DNI
 2. Email
@@ -18,5 +19,5 @@ Dichos atributos son:
 7. Direccion POstal
 8. Fecha de Nacimiento
 
-Para ello en dicha calse hemos definido una serie de funciones (get y set) para obetener y modificar cada uno de los atributos relacionados tanto con los alumnos como con los profesores.
+Para ello en dicha clase hemos definido una serie de funciones (get y set), para obtener y modificar cada uno de los atributos relacionados tanto con los alumnos como con los profesores.
 
