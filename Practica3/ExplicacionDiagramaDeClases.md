@@ -16,7 +16,7 @@ Dichos atributos son:
 4. Apellido1
 5. Apellido2
 6. Teléfono
-7. Direccion POstal
+7. Direccion Postal
 8. Fecha de Nacimiento
 
 Para ello en dicha clase hemos definido una serie de funciones (get y set), para obtener y modificar cada uno de los atributos relacionados tanto con los alumnos como con los profesores.
