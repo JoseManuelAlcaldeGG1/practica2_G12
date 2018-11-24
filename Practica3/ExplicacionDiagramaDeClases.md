@@ -17,5 +17,6 @@ Dichos atributos son:
 6. Teléfono
 7. Direccion POstal
 8. Fecha de Nacimiento
+
 Para ello en dicha calse hemos definido una serie de funciones (get y set) para obetener y modificar cada uno de los atributos relacionados tanto con los alumnos como con los profesores.
 
