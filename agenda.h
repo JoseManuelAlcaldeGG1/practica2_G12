@@ -12,10 +12,11 @@ class Agenda{
 		list <Alumno> ListaAlumnos_;
 
 	public:
-
-		bool InsertarAlumno();
-		void MostrarAlumno();
-		Alumno BuscarAlumno();
+	
+		Agenda(){};
+		bool InsertarAlumno(Alumno a);
+		void MostrarAlumno(Alumno a);
+		Alumno BuscarAlumno(string cad, int opcion);
 		void MostrarTodos();
 		bool ModificarAlumno();
 		bool BorrarAlumno();
