@@ -28,16 +28,16 @@ class Profesor: public Persona{
 		inline string getNombreUsuario(){return Login_.nombre_usuario;};
 		inline bool getCoordinador(){return Coordinador_;};
 
-		bool GuardarCopia();
-		bool RestaurarCopia();
+		bool GuardarCopia(string cad, Agenda &a);
+		bool RestaurarCopia(string cad, Agenda &a);
 
-		int Autentificar();
+		int Autentificar(login &usuario);
 
 		bool AnadirProfesor(Profesor p);
 		void mostrarProfesores();
 		bool EliminarProfesor();
 
-		void Guardar_Agenda(string cad);
-		void Cargar_Agenda(string cad);
+		void Guardar_Agenda(string cad, Agenda &a);
+		void Cargar_Agenda(string cad, Agenda &a);
 };
 #endif
