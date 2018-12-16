@@ -1,8 +1,8 @@
 # Product Backlog
 
-**Ficheros cabecera**(2h)
-
 ## Funcionalidad
+
+**Ficheros cabecera**(2h)
 
 **Insertar alumno:** *Prioridad 1* (1h)
 
@@ -32,4 +32,6 @@
 
 **Borrar todos:** *Prioridad 6*(1.5h)
 
-**Tiempo total estimado:** 29h
+**Función principal** (6h)
+
+**Tiempo total estimado:** 35h
