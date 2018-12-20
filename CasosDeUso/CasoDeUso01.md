@@ -6,7 +6,7 @@
 
 **Breve descripcion:** El usuario introduce un nuevo alumno a la base de datos.
 
-**Actores principales:** Profesor
+**Actores principales:** Profesor Coordinador - Profesor Ayudante
 
 **Actores secundarios:** Alumnos
 
