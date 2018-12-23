@@ -39,9 +39,8 @@ Hereda los datos de persona y además contiene:
 10. Para la identificación, será necesario aportar el nombre de usuario y la contraseña.
 11. Añadir un profesor ayudante.
 12. Borrar un profesor ayudante.
-13. Cambiar profesor coordinador.
-14. Hacer copia de seguridad.
-15. Restaurar la copia de seguridad.
+13. Hacer copia de seguridad.
+14. Restaurar la copia de seguridad.
 
 ## REQUERIMIENTOS NO FUNCIONALES:
 1. El tipo de formato de los ficheros será binario, tanto para el de las credenciales como el de los alumnos.
